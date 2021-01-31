@@ -1,0 +1,3 @@
+①这部分工作是复现2中概率计算模型；
+②先用jupyter notebook打开pre_handle的执行结果已经在目录下了，因此可以直接运行feature_select文件；
+③同样不建议再运行，因为结果已经在每个子部分的output了，这部分的工作是统计错误数量然后在MATLAB中绘图。

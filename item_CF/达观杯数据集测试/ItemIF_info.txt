@@ -1,0 +1,13 @@
+A,deadpool,1
+A,ironman,1
+A,captain,1
+B,ironman,1
+B,blackpanther,1
+B,spiderman,1
+C,blackpanther,1
+C,captain,1
+D,ironman,1
+D,blackpanther,1
+D,captain,1
+E,deadpool,1
+E,captain,1
